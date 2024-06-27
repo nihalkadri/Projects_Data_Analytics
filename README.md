@@ -11,6 +11,6 @@
   - Developed a content-based recommendation system using TF-IDF on song data, exploring missing values, and generating a similarity matrix to recommend songs based on input.
     
 4) Time Series Forecasting of Champagne Sales using ARIMA and SARIMA Models
-   - Performed time series forecasting of champagne sales utilizing ARIMA and SARIMA models. Stationarity was evaluated using the Dickey-Fuller test. SARIMA exhibited a lower RMSE of 
-     328.88, compared to ARIMA's RMSE of 350.86.
+  - Performed time series forecasting of champagne sales utilizing ARIMA and SARIMA models. Stationarity was evaluated using the Dickey-Fuller test. SARIMA exhibited a lower RMSE of 
+    328.88, compared to ARIMA's RMSE of 350.86.
 
