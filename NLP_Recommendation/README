@@ -1,0 +1,3 @@
+Project Summary
+
+Implemented a sentiment-based product recommendation system employing NLP techniques, ML models including logistic regression, naive Bayes, random forest, and XGBoost with oversampling techniques, and compared user-based and item-based recommendation systems by evaluating RMSE values, resulting in enhanced recommendation accuracy.
