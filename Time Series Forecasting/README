@@ -1,0 +1,3 @@
+Project Summary
+
+Performed time series forecasting of champagne sales utilizing ARIMA and SARIMA models. Stationarity was evaluated using the Dickey-Fuller test. SARIMA exhibited a lower RMSE of 328.88, compared to ARIMA's RMSE of 350.86.
